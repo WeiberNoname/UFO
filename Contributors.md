@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-Weiber Wei
+- [WeiberNoname](https://github.com/WeiberNoname)
 - [Aliraza Khan] (https://github.com/itsarkcodes)
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
